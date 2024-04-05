@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Laila:300,regular,500,600,700);
+#aaa{
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 100vh;
+}
+
+#azz{
+  background-color: #C38787;
+  color: #FFFFFF;
+  font-family: Laila;
+}
+
+input {
+  font-family: Laila !important;
+  color: #C38787 !important;
+}
+
+label{
+  font-family: Laila !important;
+}
+
+#lalp{
+  font-family: Laila;
+}
+
+#asxa{
+  font-family: Laila ;
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: #C38787;
+}
+
+#aoo-{
+  font-family: Laila;
+  color: #C38787;
+  font-size: 60px !important;
+  font-weight: bold;
+  text-align: center;
+}
+
+#aoos{
+  font-family: Laila;
+  color: #C38787;
+  font-size: 55px !important;
+  font-weight: bold;
+  text-align: center;
+}
+
+#aooss{
+  font-family: Laila;
+  color: #C38787;
+  font-size: 55px !important;
+  font-weight: bold;
+  text-align: center;
+}
